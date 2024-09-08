@@ -2,7 +2,7 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://doit.vlsm.org/ETC/logCodes.txt
 
-ZCZC W01 15 L08 Discussion with peers
+ZCZC W01 45 L08 Discussion with peers
 ZCZC W01 L05 Quiz related including studying
 ZCZC W01 20 L01 SCELE/Discord related
 ZCZC W01 200 L02 CLASSROOM/ZOOM meetings related
