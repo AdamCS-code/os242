@@ -11,3 +11,6 @@ permalink: LINKS/
 4. [GPG: A Comfy guide](https://youtu.be/eLKOIjNFwVs?si=LzZ0KlfqgN3LdLJf): A comprehensive explanations how to encrypt/decrypt a file with GPG.
 5. [Creating and Formatting a partition](https://youtu.be/5kVAzxTwy5Q?si=OV4bjBFNrFIh9k2r) This video is a tutorial with explanation on how to create and format a partition in linux.
 6. [How to Change Your Linux Account's user, group, etc](https://unix.stackexchange.com/questions/26675/how-can-i-change-a-users-default-group-in-linux): A tutorial about change user, group, etc in linux account.
+7. [Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming): An explanation about makefiles.
+8. [What Is Cyber Security: How It Works?](https://youtu.be/inWWhr5tnEA?feature=shared): An introduction to cyber security worlds.
+9. [Big Endian and Little Endian](https://youtu.be/jhErugDB-34?feature=shared): An explanation about big endian and little endian.
