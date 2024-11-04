@@ -14,6 +14,8 @@ permalink: LINKS/
 7. [Introduction to Makefiles](https://www.youtube.com/watch?v=_r7i5X0rXJk&ab_channel=PaulProgramming): An explanation about makefiles.
 8. [What Is Cyber Security: How It Works?](https://youtu.be/inWWhr5tnEA?feature=shared): An introduction to cyber security worlds.
 9. [Big Endian and Little Endian](https://youtu.be/jhErugDB-34?feature=shared): An explanation about big endian and little endian.
-10. [https://www.geeksforgeeks.org/fork-system-call/](C language: "fork()"): An explanation about fork()
-11. [https://www.geeksforgeeks.org/multi-threading-models-in-process-management/](Multi Threading): And Explanation about multi threading models.
-12. [https://docusaurus.io/docs](Docusaurus Documentation): Documentation regarding Docusaurus.
+10. [C language: "fork()"](https://www.geeksforgeeks.org/fork-system-call/): An explanation about fork()
+11. [Multi Threading](https://www.geeksforgeeks.org/multi-threading-models-in-process-management/): And Explanation about multi threading models.
+12. [Docusaurus Documentation](https://docusaurus.io/docs): Documentation regarding Docusaurusr.
+13. [System Programming Course](https://sp.vlsm.org/): System Programming course.
+14. [Operating System slides](https://docos.vlsm.org/): Operating System Slides.
