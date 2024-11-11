@@ -19,3 +19,7 @@ permalink: LINKS/
 12. [Docusaurus Documentation](https://docusaurus.io/docs): Documentation regarding Docusaurusr.
 13. [System Programming Course](https://sp.vlsm.org/): System Programming course.
 14. [Operating System slides](https://docos.vlsm.org/): Operating System Slides.
+15. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/12.2/index.html): Build linux from scratch.
+16. [Video Linux From Scratch](https://www.youtube.com/watch?v=vMdPHpPiy4Q&list=PLyc5xVO2uDsDzdT8lkx430hZ-gY69wgS3&index=7): Video Build linux from scratch.
+17. [Create New Partition](https://www.youtube.com/watch?v=O5kh_-6e4kk&pp=ygUkaG93IHRvIGNyZWF0ZSBuZXcgcGFydGl0aW9uIGluIGxpbnV4): How to create new partition.
+
